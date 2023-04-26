@@ -1,0 +1,26 @@
+.form-wrapp {
+    display: flex;
+    align-items: center;
+}
+
+.block-wrapp {
+    display: flex;
+    align-items: center;
+    margin: 15px;
+}
+
+.form-label {
+    margin-right: 5px;
+}
+
+.search-input {
+    width: 200px;
+}
+
+
+.text-languages {
+    display: flex;
+    align-self: center;
+    font-weight: 700;
+}
+/*  */
