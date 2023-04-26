@@ -130,7 +130,7 @@
 //task 2
 //tochno zakinchiv
 
-//kinflict1
+//konflict from task-2
 
 const searchInput = document.querySelector(".search-input");
 const container = document.querySelector(".container");
